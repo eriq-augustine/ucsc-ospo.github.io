@@ -2,7 +2,7 @@
 title: "Autograder"
 authors: [eaugusti]
 author_notes: ["Postdoctoral Researcher, LINQS Lab, UC Santa Cruz"]
-tags: ["osre25", "uc", "software development", "data science", "ai", "ml", "llm", "frontend", "backend"]
+tags: ["osre25", "uc", "software development", "teaching tools", "data science", "ai", "ml", "llm", "frontend", "backend"]
 date: 2025-02-05T17:00:00-08:00
 lastmod: 2025-02-05T17:00:00-08:00
 ---
