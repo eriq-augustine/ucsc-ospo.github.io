@@ -3,8 +3,8 @@ title: "LMS Toolkit"
 authors: [eaugusti]
 author_notes: ["Postdoctoral Researcher, LINQS Lab, UC Santa Cruz"]
 tags: ["osre25", "uc", "software development", "teaching tools", "backend"]
-date: 2025-02-05T17:00:00-08:00
-lastmod: 2025-02-05T17:00:00-08:00
+date: 2025-02-06T13:00:00-08:00
+lastmod: 2025-02-06T13:00:00-08:00
 ---
 
 The [EduLinq LMS Toolkit](https://github.com/edulinq/py-canvas) (also called the "Canvas Tool" or "py-canvas") is a suite of tools used by several courses at UCSC
@@ -132,7 +132,7 @@ See Also:
 ## Testing / CI Infrastructure
 
  - **Topics:** `Backend` `Teaching Tools` `Testing` `CI`
- - **Skills:** software development, backend, testing, ci
+ - **Skills:** software development, backend, testing, ci, docker
  - **Difficulty:** Challenging
  - **Size:** Large (350 hours)
  - **Mentors:** [Eriq Augustine](mailto:eaugusti@ucsc.edu), Batuhan Salih, Lise Getoor

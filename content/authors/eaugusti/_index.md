@@ -39,6 +39,6 @@ user_groups:
 ---
 Eriq Augustine is a Postdoctoral Researcher with the LINQS Lab at UC Santa Cruz.
 Prior to pursuing his PhD, Eriq spent a decade in industry working
-on Netflix’s Cloud Reliability Team, Google's Chrome Extensions Engine Team, and a senior software developer at Gaine Solutions, a master data management startup.
+on Netflix’s Cloud Reliability Team, Google's Chrome Extensions Engine Team, and a senior software developer at Gaine Solutions (a master data management startup).
 Eriq also spent three years as a Computer Science lecturer at Cal Poly San Luis Obispo,
 where he received his BS and MS in Computer Science.

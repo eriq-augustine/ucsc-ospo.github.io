@@ -2,9 +2,9 @@
 title: "Quiz Composer"
 authors: [eaugusti]
 author_notes: ["Postdoctoral Researcher, LINQS Lab, UC Santa Cruz"]
-tags: ["osre25", "uc", "software development", "teaching tools", "frontend", "backend"]
-date: 2025-02-05T17:00:00-08:00
-lastmod: 2025-02-05T17:00:00-08:00
+tags: ["osre25", "uc", "software development", "teaching tools", "backend"]
+date: 2025-02-06T13:00:00-08:00
+lastmod: 2025-02-06T13:00:00-08:00
 ---
 
 The [EduLinq Quiz Composer](https://github.com/edulinq/quizgen) (also called the "Quiz Generator") is a tool used by several courses at UCSC
@@ -13,7 +13,7 @@ Knowledge assessments like quizzes, exams, and tests are a core part of the lear
 However maintaining banks of questions, collaborating on new questions, and converting quizzes to new formats can use up a lot of time,
 taking time away from actually working on improving course materials.
 The Quiz Composer helps by providing a single text-based format that can be stored in a repository and "compiled" into many different formats including:
-HTML, LaTeX, PDF, Cavnas, GradeScope, and QTI.
+HTML, LaTeX, PDF, Canvas, GradeScope, and QTI.
 The [LINQS Lab](https://linqs.org) has made many contributions to the maintain and improve the Quiz Composer.
 
 As an open source project, there are endless opportunities for development, improvements, and collaboration.
