@@ -14,6 +14,7 @@ However maintaining banks of questions, collaborating on new questions, and conv
 taking time away from actually working on improving course materials.
 The Quiz Composer helps by providing a single text-based format that can be stored in a repository and "compiled" into many different formats including:
 HTML, LaTeX, PDF, Cavnas, GradeScope, and QTI.
+The [LINQS Lab](https://linqs.org) has made many contributions to the maintain and improve the Quiz Composer.
 
 As an open source project, there are endless opportunities for development, improvements, and collaboration.
 Here, we highlight some specific projects that will work well in the summer mentorship setting.

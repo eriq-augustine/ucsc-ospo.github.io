@@ -7,13 +7,14 @@ date: 2025-02-05T17:00:00-08:00
 lastmod: 2025-02-05T17:00:00-08:00
 ---
 
-The [EduLinq Autograder](https://github.com/edulinq/autograder-server) is a tool used by several courses at UCSC
+The [EduLinq Autograder](https://github.com/edulinq/autograder-server) is an open source tool used by several courses at UCSC
 to safely and quickly grade programming assignments.
 Grading student code is something that may seem simple at first (you just need to run their code!),
 but quickly becomes exceeding complex as you get more into the details.
 Specifically, grading a student's code securely while providing the "last mile" service of getting code from students
 and sending results to instructors/TAs and the course's LMS (e.g., Canvas) can be very difficult.
 The Autograder provides all of this in a free and open source project.
+The [LINQS Lab](https://linqs.org) has made many contributions to the maintain and improve the Autograder.
 
 As an open source project, there are endless opportunities for development, improvements, and collaboration.
 Here, we highlight some specific projects that will work well in the summer mentorship setting.
